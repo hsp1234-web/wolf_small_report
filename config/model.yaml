@@ -1,0 +1,6 @@
+ollama_host: "http://localhost:11434"
+model: "ministral-3:3b"
+options:
+  temperature: 0.3
+  num_ctx: 4096
+  timeout: 120

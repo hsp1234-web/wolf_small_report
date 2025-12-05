@@ -1,0 +1,4 @@
+raw_dir: "./data/raw/"
+docs_dir: "./data/docs/"
+output_db: "./data/output/db/wolf_small_report.db"
+output_md_dir: "./data/output/md/"
