@@ -1,0 +1,15 @@
+# Core dependencies
+sqlite3  # 通常內建，但列出以示明確性
+requests>=2.31.0
+gdown>=5.1.0
+pymupdf>=1.23.0  # fitz 的替代品
+psutil>=5.9.0
+
+# For Google Drive integration (optional)
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.100.0
+
+# For better CLI output
+tqdm>=4.66.0
+colorama>=0.4.6
